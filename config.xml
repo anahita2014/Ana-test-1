@@ -13,5 +13,5 @@
     <author href="https://anadeveloper.com" email="info@anadeveloper.com">
         Hardeep Shoker 
     </author>
-
+    <icon src="icon.png" />
 </widget>
