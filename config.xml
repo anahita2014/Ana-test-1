@@ -14,4 +14,6 @@
         Hardeep Shoker 
     </author>
     <icon src="icon.png" />
+	<gap:plugin name="org.apache.cordova.device-motion" />
+	<preference name="permissions" value="none"/>
 </widget>
